@@ -1,0 +1,15 @@
+#EXTM3U
+
+
+################## XXXX CANAIS XXXX ########################
+
+#EXTINF:-1 tvg-logo="" group-title="" , A&E sd
+http://us13.server.kkwhiskey.xyz/SD_AE/video.m3u8?token=81fe0540efe62deb3ad8f03c811beee5
+
+
+#EXTINF:-1 tvg-logo="" group-title="", CARTOON NETWORK
+http://ge2.server.kudabeta.live/HD_CARTOON_NETWORK/video.m3u8?token=81fe0540efe62deb3ad8f03c811beee5
+
+
+#EXTINF:-1 tvg-logo="" group-title="", FOX
+http://us12.server.kktango.xyz/HD_FOX/video.m3u8?token=81fe0540efe62deb3ad8f03c811beee5
