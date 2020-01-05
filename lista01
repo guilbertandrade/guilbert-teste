@@ -793,7 +793,9 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/37793.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT FULL HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT FULL HD
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52638.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1208.m3u8
+http://dns.clientetv.xyz:8000/Rogermengao/Roginho/1324
+
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD+" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD+
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/38919.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 1" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 1
