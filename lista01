@@ -231,8 +231,10 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1329.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX FULL HD" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX FULL HD
 http://brasiltv.dns-cloud.net:80/downservergames/brasiltv125/7925
 
+
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX HD
 http://brasiltv.dns-cloud.net:80/downservergames/brasiltv125/5301
+
 
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Variedades e Musicas",FOX LIFE
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1038.m3u8
