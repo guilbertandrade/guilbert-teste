@@ -60,9 +60,6 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1713.m3u8
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52595.m3u8
 
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1106.m3u8
-
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS FULL HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS FULL HD
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52609.m3u8
@@ -71,29 +68,6 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52609.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS HD
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/2407.m3u8
 
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FULL HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS FULL HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52647.m3u8
-
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1104.m3u8
-
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 1" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD 1
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/38740.m3u8
-
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 2" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD 2
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/38739.m3u8
-
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 3" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD 3
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/38738.m3u8
-
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD+" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD+
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/24187.m3u8
 
 
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Infantil",BOOMERANG
@@ -137,7 +111,7 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1220.m3u8
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1095.m3u8
+https://streamlivea.amilpublicidades.com/hls1/cartoon.m3u8?wmsAuthSign=
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK HD
